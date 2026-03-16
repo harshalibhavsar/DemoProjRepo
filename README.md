@@ -1,3 +1,3 @@
 # DemoProjRepo
-Demo git and github command 
+Demo git and github.
 Author-Harshali Bhavsar
